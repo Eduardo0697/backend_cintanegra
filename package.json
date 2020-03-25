@@ -1,0 +1,26 @@
+{
+  "name": "backend_cintanegra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo0697/backend_cintanegra.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eduardo0697/backend_cintanegra/issues"
+  },
+  "homepage": "https://github.com/Eduardo0697/backend_cintanegra#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
